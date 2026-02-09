@@ -34,7 +34,7 @@ def download_flag(flag_url):
         pass
     
     return (
-        "https://raw.githubusercontent.com/FreeSSTP/server-list/main/flags/"
+        "https://raw.githubusercontent.com/alihusains/sstp-server-list/main/flags/"
         + flag_url.split("/")[-1]
     )
 
@@ -76,6 +76,7 @@ def work():
 
     with open("details.json", "w") as fff:
         fff.write("Server count: {}".format(len(SSTP_List)))
+
 
 
 work()
