@@ -1,4 +1,4 @@
-STATUS : [![Scrapper](https://github.com/alihusains/sstp-server-list/actions/workflows/main.yml/badge.svg)](https://github.com/alihusains/sstp-server-list/actions/workflows/main.yml)
+STATUS : [![Scrapper](https://github.com/alihusains/sstp-server-list/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/alihusains/sstp-server-list/actions/workflows/main.yml)
 
 
 APK : https://github.com/mfoolady/Open-SSTP-Client-Free-Server/releases/download/v7.2.2/osc-free-7.2.2.apk
